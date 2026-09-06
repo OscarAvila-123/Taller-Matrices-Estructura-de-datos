@@ -43,14 +43,5 @@ Programa en Java para el control de inventario y ventas semanales utilizando mat
 
 ---
 
-## 🚀 Cómo Ejecutar los Proyectos
 
-### Requisitos Previos
-* **Java JDK** 8 o superior instalado.
 
-### Comandos de Compilación y Ejecución (vía Terminal)
-
-1. Clonar el repositorio:
-   ```bash
-   git clone [https://github.com/TU-USUARIO/Estructura-Datos-Java.git](https://github.com/TU-USUARIO/Estructura-Datos-Java.git)
-   cd Estructura-Datos-Java
