@@ -3,8 +3,19 @@
 Este repositorio contiene las soluciones implementadas en Java para dos casos de estudio prácticos: la gestión del estado de embarque en un terminal de aeropuerto mediante matrices y listas enlazadas simples, y el análisis de ventas de inventario mediante matrices multidimensionales.
 
 ---
+## 📌 Información General
 
-## 🛠️ Proyectos Incluidos
+* **Institución:** Corporación Universitaria Minuto de Dios – UNIMINUTO
+* **Asignatura:** Estructura de Datos
+* **NRC:** 90547
+* **Docente:** Edilberto Ramirez Rivera
+* **Ubicación:** Ciudad Bolívar – 2026
+
+### 👥 Integrantes
+* **Oscar Stiven Avila Nomesque** — ID: 1045928
+* **David Santiago Borda Jimenez** — ID: 1095539
+* **Andres Sebastian Reina Yazo** — ID: 1094995
+
 
 ### 1. Sistema de Gestión de Embarque (`src/sistema_aeropuerto/`)
 Simula las puertas de embarque de una terminal de aeropuerto estructuradas en una **matriz 4x4**. Cada celda contiene una **lista enlazada simple** que gestiona la cola de pasajeros en orden de llegada y distingue su categoría (`S` para Socio Gold y `E` para Estándar).
